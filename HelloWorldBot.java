@@ -28,4 +28,5 @@ public final class HelloWorldBot extends Bot {
     public void onUpdateReceived(Update update) {
         sendTextMessage(update.getMessage(), "Hello world!");
     }
+    //Nemaye moskalia - nemaye ni****
 }
