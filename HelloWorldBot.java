@@ -28,5 +28,5 @@ public final class HelloWorldBot extends Bot {
     public void onUpdateReceived(Update update) {
         sendTextMessage(update.getMessage(), "Hello world!");
     }
-    //Nache maye praciuvat'
+    //URA! PRACIUYE!
 }
